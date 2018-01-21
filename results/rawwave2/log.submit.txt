@@ -1,0 +1,11 @@
+
+--- [START 2018-01-17_06-39-02] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+
+** net setting **
+	initial_checkpoint = C:/Users/45190/Desktop/results/rawwave2/checkpoint/00012000_model.pth
+<class 'net.model.simple1d_net2.Simple1dNet2'>
+
+** dataset setting **

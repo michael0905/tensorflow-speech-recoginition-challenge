@@ -1,0 +1,44 @@
+
+--- [START 2018-01-15_15-08-14] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+
+** net setting **
+	initial_checkpoint = C:/Users/45190/Desktop/results/rawwave/checkpoint/00009000_model.pth
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+** dataset setting **
+
+--- [START 2018-01-15_15-11-31] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+
+** net setting **
+	initial_checkpoint = C:/Users/45190/Desktop/results/rawwave/checkpoint/00009000_model.pth
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+** dataset setting **
+
+--- [START 2018-01-15_23-25-24] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+
+** net setting **
+	initial_checkpoint = C:/Users/45190/Desktop/results/rawwave/checkpoint/00020000_model.pth
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+** dataset setting **
+
+--- [START 2018-01-15_23-34-12] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+
+** net setting **
+	initial_checkpoint = C:/Users/45190/Desktop/results/rawwave/checkpoint/00019000_model.pth
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+** dataset setting **

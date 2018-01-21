@@ -1,0 +1,351 @@
+
+--- [START 2018-01-16_15-00-11] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/ensemble
+
+** net setting **
+
+--- [START 2018-01-16_15-01-55] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/ensemble
+
+** net setting **
+
+--- [START 2018-01-16_15-04-42] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/ensemble
+
+** net setting **
+<class 'FuseNet.FuseNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 199
+	len(valid_loader)   = 27
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x000001A78E924828>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-16_15-06-08] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/ensemble
+
+** net setting **
+<class 'FuseNet.FuseNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 199
+	len(valid_loader)   = 27
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x0000011C06E14828>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-16_15-07-48] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/ensemble
+
+** net setting **
+<class 'FuseNet.FuseNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 199
+	len(valid_loader)   = 27
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x000001AC161B3828>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-16_15-11-08] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/ensemble
+
+** net setting **
+<class 'FuseNet.FuseNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 199
+	len(valid_loader)   = 27
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x0000026108893828>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-16_15-25-59] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/ensemble
+
+** net setting **
+<class 'FuseNet.FuseNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 199
+	len(valid_loader)   = 27
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x0000026B01498828>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-16_15-26-55] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/ensemble
+
+** net setting **
+<class 'FuseNet.FuseNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 199
+	len(valid_loader)   = 27
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x000002A489E5A828>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-16_15-28-07] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/ensemble
+
+** net setting **
+<class 'FuseNet.FuseNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 199
+	len(valid_loader)   = 27
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x000002948A8E9860>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-16_15-48-50] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/ensemble
+
+** net setting **
+<class 'FuseNet.FuseNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 199
+	len(valid_loader)   = 27
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x000001510E8A4860>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-16_18-18-05] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/ensemble
+
+** net setting **
+<class 'FuseNet.FuseNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 199
+	len(valid_loader)   = 27
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x00000186363D6828>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-16_18-35-23] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/ensemble
+
+** net setting **
+<class 'FuseNet.FuseNet'>
+
+
+** dataset setting **
+
+--- [START 2018-01-16_18-35-43] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/ensemble
+
+** net setting **
+<class 'FuseNet.FuseNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x0000025484044860>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------

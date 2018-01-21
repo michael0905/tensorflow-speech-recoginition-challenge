@@ -1,0 +1,11 @@
+
+--- [START 2018-01-13_22-17-10] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+
+** net setting **
+	initial_checkpoint = C:/Users/45190/Desktop/results/se-resnet3/checkpoint/00008000_model.pth
+<class 'net.model.se_resnet3.SeResNet3'>
+
+** dataset setting **

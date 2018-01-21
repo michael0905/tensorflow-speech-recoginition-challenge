@@ -1,0 +1,156 @@
+
+--- [START 2018-01-16_16-27-05] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/se-resnet4
+
+** net setting **
+
+--- [START 2018-01-16_16-27-46] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/se-resnet4
+
+** net setting **
+<class 'net.model.se_resnet4.SeResNet4'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x000002671B5B48D0>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+0.0000    0.0 k    0.00   0.0 | 2.4860  0.0783 | 0.0000  0.0000 | 0.0000  0.0000 |  0 hr 00 min 
+0.0100    0.5 k    2.51   0.1 | 0.2567  0.9227 | 0.3779  0.8828 | 0.3832  0.8984 |  0 hr 04 min 
+0.0100    1.0 k    5.01   0.3 | 0.2577  0.9404 | 0.2498  0.9217 | 0.2534  0.9336 |  0 hr 07 min 
+0.0100    1.5 k    7.52   0.4 | 0.1629  0.9539 | 0.2008  0.9383 | 0.2219  0.9297 |  0 hr 11 min 
+0.0100    2.0 k   10.02   0.5 | 0.1588  0.9570 | 0.1768  0.9375 | 0.1783  0.9492 |  0 hr 15 min 
+0.0100    2.5 k   12.53   0.6 | 0.1567  0.9588 | 0.1602  0.9523 | 0.1381  0.9648 |  0 hr 18 min 
+0.0100    3.0 k   15.03   0.8 | 0.1389  0.9626 | 0.1384  0.9616 | 0.1766  0.9609 |  0 hr 22 min 
+0.0100    3.5 k   17.54   0.9 | 0.1322  0.9648 | 0.1534  0.9547 | 0.1356  0.9648 |  0 hr 25 min 
+0.0100    4.0 k   20.04   1.0 | 0.1411  0.9579 | 0.1455  0.9549 | 0.2034  0.9531 |  0 hr 29 min 
+0.0100    4.5 k   22.55   1.2 | 0.1193  0.9638 | 0.1258  0.9648 | 0.1040  0.9727 |  0 hr 33 min 
+
+--- [START 2018-01-16_18-40-10] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/se-resnet4
+
+** net setting **
+	initial_checkpoint = C:/Users/45190/Desktop/results/se-resnet4/checkpoint/00004000_model.pth
+<class 'net.model.se_resnet4.SeResNet4'>
+
+
+** dataset setting **
+
+--- [START 2018-01-16_18-40-35] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/se-resnet4
+
+** net setting **
+	initial_checkpoint = C:/Users/45190/Desktop/results/se-resnet4/checkpoint/00004000_model.pth
+<class 'net.model.se_resnet4.SeResNet4'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x0000024C1BE33048>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+0.0000    4.0 k   20.04   1.0 | 0.1411  0.9579 | 0.0000  0.0000 | 0.0000  0.0000 |  0 hr 00 min 
+0.0100    4.5 k   22.55   1.2 | 0.1525  0.9601 | 0.1271  0.9639 | 0.1730  0.9492 |  0 hr 04 min 
+0.0100    5.0 k   25.05   1.3 | 0.1301  0.9613 | 0.1214  0.9664 | 0.1526  0.9570 |  0 hr 07 min 
+0.0100    5.5 k   27.56   1.4 | 0.1349  0.9651 | 0.1203  0.9674 | 0.1449  0.9531 |  0 hr 15 min 
+0.0100    6.0 k   30.07   1.5 | 0.1537  0.9641 | 0.1055  0.9766 | 0.1499  0.9570 |  0 hr 19 min 
+0.0100    6.5 k   32.57   1.7 | 0.1366  0.9626 | 0.1110  0.9678 | 0.0974  0.9727 |  0 hr 22 min 
+0.0100    7.0 k   35.08   1.8 | 0.1293  0.9648 | 0.0981  0.9751 | 0.0666  0.9766 |  0 hr 26 min 
+0.0100    7.5 k   37.58   1.9 | 0.1389  0.9635 | 0.1076  0.9693 | 0.0768  0.9727 |  0 hr 30 min 
+0.0100    8.0 k   40.09   2.0 | 0.1530  0.9632 | 0.1041  0.9684 | 0.1823  0.9688 |  0 hr 33 min 
+0.0100    8.5 k   42.59   2.2 | 0.1427  0.9641 | 0.1046  0.9701 | 0.0862  0.9805 |  0 hr 38 min 
+0.0100    9.0 k   45.10   2.3 | 0.1299  0.9663 | 0.1041  0.9701 | 0.1222  0.9570 |  0 hr 42 min 
+0.0100    9.5 k   47.60   2.4 | 0.1207  0.9679 | 0.1100  0.9688 | 0.0909  0.9688 |  0 hr 47 min 
+0.0100   10.0 k   50.11   2.6 | 0.1281  0.9660 | 0.1195  0.9660 | 0.1585  0.9570 |  0 hr 51 min 
+0.0100   10.5 k   52.62   2.7 | 0.1548  0.9669 | 0.0763  0.9766 | 0.1318  0.9609 |  0 hr 56 min 
+0.0100   11.0 k   55.12   2.8 | 0.1320  0.9685 | 0.0962  0.9725 | 0.0511  0.9844 |  1 hr 00 min 
+0.0100   11.5 k   57.63   2.9 | 0.1628  0.9635 | 0.0950  0.9748 | 0.1335  0.9531 |  1 hr 05 min 
+0.0100   12.0 k   60.13   3.1 | 0.1354  0.9691 | 0.1043  0.9701 | 0.0809  0.9727 |  1 hr 09 min 
+0.0100   12.5 k   62.64   3.2 | 0.1274  0.9669 | 0.0984  0.9732 | 0.0902  0.9648 |  1 hr 13 min 
+0.0100   13.0 k   65.14   3.3 | 0.1238  0.9694 | 0.1050  0.9709 | 0.0725  0.9805 |  1 hr 18 min 
+
+--- [START 2018-01-16_20-31-06] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/se-resnet4
+
+** net setting **
+	initial_checkpoint = C:/Users/45190/Desktop/results/se-resnet4/checkpoint/00013000_model.pth
+<class 'net.model.se_resnet4.SeResNet4'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x00000266EC203048>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+0.0000   13.0 k   65.14   3.3 | 0.1238  0.9694 | 0.0000  0.0000 | 0.0000  0.0000 |  0 hr 00 min 
+0.0100   13.5 k   67.65   3.5 | 0.1331  0.9710 | 0.0875  0.9754 | 0.1151  0.9727 |  0 hr 04 min 
+0.0100   14.0 k   70.15   3.6 | 0.1319  0.9666 | 0.0942  0.9738 | 0.1051  0.9688 |  0 hr 09 min 
+0.0100   14.5 k   72.66   3.7 | 0.1445  0.9651 | 0.0844  0.9768 | 0.1085  0.9727 |  0 hr 13 min 
+0.0100   15.0 k   75.16   3.8 | 0.1475  0.9679 | 0.0819  0.9844 | 0.0890  0.9805 |  0 hr 17 min 
+0.0100   15.5 k   77.67   4.0 | 0.1475  0.9666 | 0.0787  0.9793 | 0.0618  0.9844 |  0 hr 21 min 

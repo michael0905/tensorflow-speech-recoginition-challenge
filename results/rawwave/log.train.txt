@@ -1,0 +1,637 @@
+
+--- [START 2018-01-14_22-52-56] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x000002281D662828>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-14_23-02-01] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x000001670EE71748>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-14_23-20-09] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x0000017F85F536D8>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-14_23-22-01] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x000001E98DA91748>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-14_23-27-23] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x0000022C584D1748>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-14_23-56-56] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x000001BF05F51748>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-14_23-59-58] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x0000020738A23710>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-15_07-40-42] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x000001C705F83710>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-15_08-51-58] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x00000175BD591748>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+
+--- [START 2018-01-15_08-59-24] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x000001AC0DA81748>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+0.0000    0.0 k    0.00   0.0 | 2.4848  0.0998 | 0.0000  0.0000 | 0.0000  0.0000 |  0 hr 00 min 
+
+--- [START 2018-01-15_09-02-49] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x00000212A8471780>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+0.0000    0.0 k    0.00   0.0 | 2.4848  0.0998 | 0.0000  0.0000 | 0.0000  0.0000 |  0 hr 00 min 
+
+--- [START 2018-01-15_09-04-29] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x0000018C70391748>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+0.0000    0.0 k    0.00   0.0 | 2.4848  0.0998 | 0.0000  0.0000 | 0.0000  0.0000 |  0 hr 00 min 
+0.0100    0.5 k    2.51   0.1 | 1.2491  0.6021 | 1.3034  0.5463 | 1.1898  0.5781 |  0 hr 06 min 
+
+--- [START 2018-01-15_09-25-59] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x0000025426FD36D8>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+0.0000    0.0 k    0.00   0.0 | 2.4848  0.0998 | 0.0000  0.0000 | 0.0000  0.0000 |  0 hr 00 min 
+0.0100    0.5 k    2.51   0.1 | 1.3196  0.5822 | 1.2570  0.5756 | 1.0966  0.6680 |  0 hr 06 min 
+0.0100    1.0 k    5.01   0.3 | 0.5289  0.8257 | 0.5994  0.8184 | 0.6222  0.8086 |  0 hr 13 min 
+0.0100    1.5 k    7.52   0.4 | 0.4218  0.8759 | 0.4613  0.8637 | 0.4826  0.8320 |  0 hr 19 min 
+
+--- [START 2018-01-15_12-54-03] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+	initial_checkpoint = C:/Users/45190/Desktop/results/rawwave/checkpoint/00001000_model.pth
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x00000291B5881080>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+0.0000    1.0 k    5.01   0.3 | 0.5289  0.8257 | 0.0000  0.0000 | 0.0000  0.0000 |  0 hr 00 min 
+0.0100    1.5 k    7.52   0.4 | 0.3948  0.8806 | 0.4475  0.8635 | 0.4196  0.8594 |  0 hr 06 min 
+0.0100    2.0 k   10.02   0.5 | 0.3243  0.8971 | 0.3668  0.8887 | 0.5218  0.8672 |  0 hr 12 min 
+0.0100    2.5 k   12.53   0.6 | 0.2989  0.9149 | 0.3294  0.9059 | 0.3582  0.8906 |  0 hr 18 min 
+0.0100    3.0 k   15.03   0.8 | 0.2315  0.9208 | 0.3238  0.9062 | 0.2982  0.9141 |  0 hr 25 min 
+0.0100    3.5 k   17.54   0.9 | 0.2143  0.9379 | 0.2749  0.9182 | 0.2730  0.9258 |  0 hr 31 min 
+0.0100    4.0 k   20.04   1.0 | 0.2355  0.9242 | 0.2428  0.9293 | 0.2248  0.9414 |  0 hr 37 min 
+0.0100    4.5 k   22.55   1.2 | 0.2143  0.9355 | 0.2426  0.9279 | 0.2073  0.9297 |  0 hr 43 min 
+0.0100    5.0 k   25.05   1.3 | 0.2178  0.9348 | 0.2320  0.9297 | 0.2553  0.9141 |  0 hr 50 min 
+0.0100    5.5 k   27.56   1.4 | 0.1917  0.9414 | 0.2158  0.9340 | 0.2342  0.9375 |  0 hr 57 min 
+
+--- [START 2018-01-15_14-01-06] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+	initial_checkpoint = C:/Users/45190/Desktop/results/rawwave/checkpoint/00005000_model.pth
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x0000015D839B0048>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+0.0000    5.0 k   25.05   1.3 | 0.2178  0.9348 | 0.0000  0.0000 | 0.0000  0.0000 |  0 hr 00 min 
+0.0100    5.5 k   27.56   1.4 | 0.2276  0.9295 | 0.2217  0.9354 | 0.2259  0.9258 |  0 hr 06 min 
+0.0100    6.0 k   30.07   1.5 | 0.1841  0.9436 | 0.1989  0.9436 | 0.2387  0.9414 |  0 hr 12 min 
+0.0100    6.5 k   32.57   1.7 | 0.2217  0.9373 | 0.1969  0.9441 | 0.1983  0.9414 |  0 hr 17 min 
+0.0100    7.0 k   35.08   1.8 | 0.1681  0.9520 | 0.1764  0.9453 | 0.1661  0.9648 |  0 hr 23 min 
+0.0100    7.5 k   37.58   1.9 | 0.1829  0.9448 | 0.1764  0.9496 | 0.1810  0.9453 |  0 hr 29 min 
+0.0100    8.0 k   40.09   2.0 | 0.1996  0.9417 | 0.1550  0.9542 | 0.1444  0.9609 |  0 hr 35 min 
+0.0100    8.5 k   42.59   2.2 | 0.2167  0.9358 | 0.1753  0.9502 | 0.1538  0.9609 |  0 hr 40 min 
+0.0100    9.0 k   45.10   2.3 | 0.2044  0.9408 | 0.1641  0.9537 | 0.1871  0.9414 |  0 hr 46 min 
+0.0100    9.5 k   47.60   2.4 | 0.2085  0.9423 | 0.1704  0.9494 | 0.1795  0.9531 |  0 hr 52 min 
+
+--- [START 2018-01-15_15-28-14] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+	initial_checkpoint = C:/Users/45190/Desktop/results/rawwave/checkpoint/00009000_model.pth
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x0000021AFFA01048>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+0.0000    9.0 k   45.10   2.3 | 0.2044  0.9408 | 0.0000  0.0000 | 0.0000  0.0000 |  0 hr 00 min 
+0.0100    9.5 k   47.60   2.4 | 0.1781  0.9492 | 0.1718  0.9504 | 0.1722  0.9531 |  0 hr 06 min 
+0.0100   10.0 k   50.11   2.6 | 0.1763  0.9504 | 0.1670  0.9518 | 0.2013  0.9531 |  0 hr 12 min 
+0.0100   10.5 k   52.62   2.7 | 0.1950  0.9470 | 0.1565  0.9547 | 0.1607  0.9453 |  0 hr 17 min 
+0.0100   11.0 k   55.12   2.8 | 0.1838  0.9526 | 0.1425  0.9648 | 0.1389  0.9688 |  0 hr 23 min 
+0.0100   11.5 k   57.63   2.9 | 0.1719  0.9526 | 0.1363  0.9627 | 0.1338  0.9648 |  0 hr 29 min 
+0.0100   12.0 k   60.13   3.1 | 0.2769  0.9323 | 0.1180  0.9670 | 0.1265  0.9844 |  0 hr 35 min 
+0.0100   12.5 k   62.64   3.2 | 0.2374  0.9389 | 0.1374  0.9619 | 0.1400  0.9531 |  0 hr 41 min 
+0.0100   13.0 k   65.14   3.3 | 0.1983  0.9492 | 0.1286  0.9648 | 0.1764  0.9648 |  0 hr 47 min 
+0.0100   13.5 k   67.65   3.5 | 0.1946  0.9464 | 0.1563  0.9547 | 0.1358  0.9648 |  0 hr 52 min 
+
+--- [START 2018-01-15_16-43-02] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+	initial_checkpoint = C:/Users/45190/Desktop/results/rawwave/checkpoint/00013000_model.pth
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x0000021F6A1D0048>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+0.0000   13.0 k   65.14   3.3 | 0.1983  0.9492 | 0.0000  0.0000 | 0.0000  0.0000 |  0 hr 00 min 
+0.0100   13.5 k   67.65   3.5 | 0.2237  0.9467 | 0.1383  0.9611 | 0.1879  0.9453 |  0 hr 06 min 
+0.0100   14.0 k   70.15   3.6 | 0.1807  0.9523 | 0.1307  0.9646 | 0.2152  0.9453 |  0 hr 12 min 
+0.0100   14.5 k   72.66   3.7 | 0.1898  0.9501 | 0.1254  0.9648 | 0.1052  0.9727 |  0 hr 17 min 
+0.0100   15.0 k   75.16   3.8 | 0.1937  0.9535 | 0.1095  0.9727 | 0.1348  0.9531 |  0 hr 23 min 
+0.0100   15.5 k   77.67   4.0 | 0.1956  0.9495 | 0.1127  0.9697 | 0.1368  0.9570 |  0 hr 29 min 
+0.0100   16.0 k   80.18   4.1 | 0.2141  0.9501 | 0.1003  0.9719 | 0.0998  0.9805 |  0 hr 35 min 
+0.0100   16.5 k   82.68   4.2 | 0.2162  0.9461 | 0.1227  0.9645 | 0.0820  0.9766 |  0 hr 40 min 
+
+--- [START 2018-01-15_22-25-07] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+	out_dir      = C:/Users/45190/Desktop/results/rawwave
+
+** net setting **
+	initial_checkpoint = C:/Users/45190/Desktop/results/rawwave/checkpoint/00016000_model.pth
+<class 'net.model.simple1d_net.Simple1dNet'>
+
+
+** dataset setting **
+	train_dataset.split = train_train_51088
+	valid_dataset.split = train_test_6835
+	len(train_dataset)  = 51088
+	len(valid_dataset)  = 6835
+	len(train_loader)   = 90
+	len(valid_loader)   = 13
+	batch_size  = 256
+	iter_accum  = 1
+	batch_size*iter_accum  = 256
+
+** start training here! **
+ optimizer=<torch.optim.sgd.SGD object at 0x0000021285F51048>
+ momentum=0.900000
+ LR=None
+
+ waves_per_epoch = 51088
+
+ rate   iter_k   epoch  num_m | valid_loss/acc | train_loss/acc | batch_loss/acc |  time    
+--------------------------------------------------------------------------------------------
+0.0000   16.0 k   80.18   4.1 | 0.2141  0.9501 | 0.0000  0.0000 | 0.0000  0.0000 |  0 hr 00 min 
+0.0100   16.5 k   82.68   4.2 | 0.2275  0.9501 | 0.1129  0.9693 | 0.1578  0.9570 |  0 hr 06 min 
+0.0100   17.0 k   85.19   4.4 | 0.1960  0.9498 | 0.1182  0.9697 | 0.1607  0.9570 |  0 hr 12 min 
+0.0100   17.5 k   87.69   4.5 | 0.2156  0.9489 | 0.1075  0.9715 | 0.1007  0.9766 |  0 hr 18 min 
+0.0100   18.0 k   90.20   4.6 | 0.2483  0.9439 | 0.1040  0.9648 | 0.1343  0.9609 |  0 hr 24 min 
+0.0100   18.5 k   92.70   4.7 | 0.2004  0.9510 | 0.1028  0.9709 | 0.0842  0.9727 |  0 hr 30 min 
+0.0100   19.0 k   95.21   4.9 | 0.2492  0.9429 | 0.0946  0.9751 | 0.1089  0.9727 |  0 hr 37 min 
+0.0100   19.5 k   97.71   5.0 | 0.2135  0.9520 | 0.1219  0.9652 | 0.1002  0.9766 |  0 hr 43 min 
+0.0100   20.0 k  100.22   5.1 | 0.1964  0.9529 | 0.1082  0.9717 | 0.2196  0.9453 |  0 hr 49 min 
+0.0100   20.5 k  102.72   5.2 | 0.2028  0.9470 | 0.1406  0.9611 | 0.1352  0.9570 |  0 hr 55 min 

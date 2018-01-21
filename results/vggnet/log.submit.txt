@@ -1,0 +1,36 @@
+
+--- [START 2018-01-16_08-17-36] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+
+** net setting **
+
+--- [START 2018-01-16_08-38-33] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+
+** net setting **
+
+--- [START 2018-01-16_08-39-50] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+
+** net setting **
+	initial_checkpoint = C:/Users/45190/Desktop/results/vggnet/checkpoint/00012000_model.pth
+<class 'net.model.vggnet1.VggNet1'>
+
+** dataset setting **
+
+--- [START 2018-01-16_10-24-17] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = C:\Users\45190\Desktop\kaggle_heng\kaggle_heng
+
+** net setting **
+	initial_checkpoint = C:/Users/45190/Desktop/results/vggnet/checkpoint/00020000_model.pth
+<class 'net.model.vggnet1.VggNet1'>
+
+** dataset setting **
